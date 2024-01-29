@@ -1,5 +1,5 @@
-#this is static page of Netflix 
+# This is static page of Netflix 
 
-(Live demo)[https://netflix-clone-five-inky.vercel.app/]
+[Live demo](https://netflix-clone-five-inky.vercel.app/)
 
-!()[]
+![imag]()
