@@ -2,4 +2,4 @@
 
 [Live demo](https://netflix-clone-five-inky.vercel.app/)
 
-![imag]()
+
